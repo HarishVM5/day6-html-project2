@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 250px;
+    background-color: aqua;
+}
+#abc{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    top: 50%;
+}
